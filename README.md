@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=micah41224&count_private=false&show_icons=true&theme=vue-dark
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=micah41224&count_private=false&show_icons=true&theme=vue-dark)
 <!--
 **micah41224/micah41224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
