@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://github.com/micah41224" target="_blank"><i class="fa fa-github"
+                        style="font-size:36px; padding-right: 10px;"></i></a>
