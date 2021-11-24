@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Michael Feldman 👋
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=micah41224&count_private=false&show_icons=true&theme=vue-dark)
 <!--
